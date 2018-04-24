@@ -1,10 +1,10 @@
-<!doctype html>
+
 <html>
 <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>jsMind</title>
-    <link type="text/css" rel="stylesheet" href="../style/jsmind.css" />
+    <link type="text/css" rel="stylesheet" href="style/jsmind.css" />
     <style type="text/css">
         #jsmind_container{
             width:100%;
