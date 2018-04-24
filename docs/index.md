@@ -13,12 +13,13 @@
             /*background:#f4f4f4;*/
             background:#f4f4f4;
         }
+        .container-lg { max-width: 100% !important; }
     </style>
 </head>
 <body>
 <div id="jsmind_container"></div>
 <script type="text/javascript" src="js/jsmind.js"></script>
-<script type="text/javascript" src="js/jsmind.draggable.js"></script>
+<script type="text/javascript" src="js/jsminddraggable.js"></script>
 <script type="text/javascript">
     function load_jsmind(){
         var mind = {
