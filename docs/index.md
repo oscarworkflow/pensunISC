@@ -112,7 +112,7 @@
                 {"id":"INF329", "parentid": "INF307", "topic":"INF329 - SEGURIDAD"},
                 {"id":"ISC404", "parentid": "TEC190", "topic":"ISC404 - ESTANDARES Y TENDENCIAS DE LA INDUSTRIA", "background-color":"red"},
                 {"id":"TEC614", "parentid": "INF324", "topic":"TEC614 - AUTOMATIZACION Y ROBOTICA", "background-color":"red", "direction":"left"},
-                {"id":"11", "parentid": "root", "topic":"CUATRIMESTRE: 11", "background-color":"#0ff0ff"},
+                {"id":"11", "parentid": "root", "topic":"CUATRIMESTRE: 11", "background-color":"#0ff0ff", "direction":"left"},
                 {"id":"ADM120", "parentid": "ADM150", "topic":"ADM120 - LIDERAZGO Y TECNICAS DE SUPERVISION"},
                 {"id":"ADM535", "parentid": "ADM150", "topic":"ADM535 - ACTITUD EMPRENDEDORA"},
                 {"id":"INF204", "parentid": "INF329", "topic":"INF204 - ADMINISTRACION DE CENTROS"},
