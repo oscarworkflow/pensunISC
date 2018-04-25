@@ -1,4 +1,3 @@
-
 <html>
 <head>
     <meta charset="utf-8">
@@ -8,7 +7,7 @@
     <style type="text/css">
         #jsmind_container{
             width:100%;
-            height:2000px;
+            height:1700px;
             border:solid 1px #ccc;
             /*background:#f4f4f4;*/
             background:#f4f4f4;
@@ -50,7 +49,7 @@
                 {"id":"ENG002", "parentid":"ENG001", "topic":"ENG002 - INGLES II"},
 
 
-                {"id":"3", "parentid":"root", "topic":"CUATRIMESTRE: 3", "background-color":"#0ff0ff"},
+                {"id":"3", "parentid":"root", "topic":"CUATRIMESTRE: 3", "background-color":"#0ff0ff", "direction":"left"},
                 {"id":"ESP103", "parentid":"ESP102", "topic":"ESP103 - REDACCION DE TEXTOS DISCURSIVOS II"},
                 {"id":"INF140", "parentid":"INF321", "topic":"INF140 - PROGRAMACION ESTRUCTURADA"},
                 {"id":"INF323", "parentid":"INF321", "topic":"INF323 - ARQUITECTURA DEL COMPUTADOR	"},
@@ -82,7 +81,7 @@
                 {"id":"TEC146", "parentid": "TEC120", "topic":"TEC146 - CIRCUITOS ELECTRICOS I", "background-color":"red"},
                 {"id":"ENG006", "parentid": "ENG005", "topic":"ENG006 - INGLES VI", "background-color":"red"},
 
-                {"id":"7", "parentid": "root", "topic":"CUATRIMESTRE: 7", "background-color":"#0ff0ff"},
+                {"id":"7", "parentid": "root", "topic":"CUATRIMESTRE: 7", "background-color":"#0ff0ff", "direction":"left"},
                 {"id":"ADM091", "parentid": "7", "topic":"ADM091 - ADMINISTRACION I"},
                 {"id":"INF167", "parentid": "INF166", "topic":"INF167 - TELEPROCESO II"},
                 {"id":"INF315", "parentid": "INF169", "topic":"INF315 - SISTEMAS OPERATIVOS III"},
@@ -106,14 +105,13 @@
                 {"id":"TEC190", "parentid": "TEC155", "topic":"TEC190 - LOGICA DIGITAL I", "background-color":"red"},
                 {"id":"TEC200", "parentid": "TEC155", "topic":"TEC200 - LAB. LOGICA DIGITAL I", "background-color":"red"},
 
-                {"id":"10", "parentid": "root", "topic":"CUATRIMESTRE: 10", "background-color":"#0ff0ff"},
+                {"id":"10", "parentid": "root", "topic":"CUATRIMESTRE: 10", "background-color":"#0ff0ff", "direction":"left"},
                 {"id":"DER179", "parentid": "10", "topic":"DER179 - DERECHO APLICADO A LA INFORMATICA"},
                 {"id":"IDI046", "parentid": "IDI045", "topic":"IDI046 - INGLES PARA INFORMATICA II", "background-color":"red"},
                 {"id":"IND423", "parentid": "IND371", "topic":"IND423 - INGENIERIA ECONOMICA", "background-color":"red"},
                 {"id":"INF329", "parentid": "INF307", "topic":"INF329 - SEGURIDAD"},
                 {"id":"ISC404", "parentid": "TEC190", "topic":"ISC404 - ESTANDARES Y TENDENCIAS DE LA INDUSTRIA", "background-color":"red"},
-                {"id":"TEC614", "parentid": "INF324", "topic":"TEC614 - AUTOMATIZACION Y ROBOTICA", "background-color":"red"},
-
+                {"id":"TEC614", "parentid": "INF324", "topic":"TEC614 - AUTOMATIZACION Y ROBOTICA", "background-color":"red", "direction":"left"},
                 {"id":"11", "parentid": "root", "topic":"CUATRIMESTRE: 11", "background-color":"#0ff0ff"},
                 {"id":"ADM120", "parentid": "ADM150", "topic":"ADM120 - LIDERAZGO Y TECNICAS DE SUPERVISION"},
                 {"id":"ADM535", "parentid": "ADM150", "topic":"ADM535 - ACTITUD EMPRENDEDORA"},
@@ -143,4 +141,3 @@
 </script>
 </body>
 </html>
-
